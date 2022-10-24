@@ -17,13 +17,13 @@ library(ggbeeswarm)
 library(viridis)
 
 
-load("C02NorthernHemisphere.Rdata")
-load("C02Worldwide.Rdata")
-load("CanadianMeanTemp.Rdata")
-load("CanadianMinTemp.Rdata")
-load("CanadianAvgSnow.Rdata")
-load("CanadianMaxTemp.Rdata")
-load("CanadianPrecip.Rdata")
+load("./data/C02NorthernHemisphere.Rdata")
+load("./data/C02Worldwide.Rdata")
+load("./data/CanadianMeanTemp.Rdata")
+load("./data/CanadianMinTemp.Rdata")
+load("./data/CanadianAvgSnow.Rdata")
+load("./data/CanadianMaxTemp.Rdata")
+load("./data/CanadianPrecip.Rdata")
 
 #data cleaning--------------------------------------------------------------------------------
 maxname=names(MaxTemp)

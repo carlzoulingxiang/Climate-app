@@ -1,0 +1,13 @@
+name: Climate-app
+title: Climate-app
+username:
+account: carlzou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7394585
+bundleId: 6432981
+url: https://carlzou.shinyapps.io/Climate-app/
+when: 1666569768.74074
+lastSyncTime: 1666569768.74076
+asMultiple: FALSE
+asStatic: FALSE
