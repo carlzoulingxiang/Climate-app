@@ -1,5 +1,6 @@
 # Climate-app
-The app can be found [here](https://carlzou.shinyapps.io/Climate-app/).
+**The app can be found [here](https://carlzou.shinyapps.io/Climate-app/).**
+
 
 ![Alt Text](/images/app.gif)
 # Objectives
